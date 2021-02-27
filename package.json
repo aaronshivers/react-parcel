@@ -1,8 +1,8 @@
 {
   "name": "react-parcel",
   "version": "1.0.0",
-  "main": "index.js",
   "license": "MIT",
+  "author": "Aaron Shivers",
   "scripts": {
     "start": "parcel index.html",
     "test": "jest",
